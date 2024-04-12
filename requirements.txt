@@ -1,0 +1,4 @@
+This is some dummy text to showcase my git-bash skills.
+This a new line in my text file without a hassle.
+All this text was written to the text file through the git-bash terminal.
+No notepad app was used.
